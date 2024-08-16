@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: coral;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+h1,  p {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+img {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 600px;
+    height: 500px;
+}
+
+button {
+    background-color: rgb(255, 164, 53);
+    width: 200px;
+    height: 50px;
+}
